@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "324505750314",
+    "firebase_url": "https://controle-de-estoque-73476-default-rtdb.firebaseio.com",
+    "project_id": "controle-de-estoque-73476",
+    "storage_bucket": "controle-de-estoque-73476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324505750314:android:5fdf5df5c9195b169d2c53",
+        "android_client_info": {
+          "package_name": "com.lucascalderon1.controledeprodutos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324505750314-57dsgb6f9gdhnfvlkr4im5t0ism45p1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lucascalderon1.controledeprodutos",
+            "certificate_hash": "0fc08708ea30e73c8eddfcdd58d2c54d872c8ad5"
+          }
+        },
+        {
+          "client_id": "324505750314-a9306amquaoi23001irlptlcgq0thhei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG1Ab6-JcvOdo1GZvreH1Xr68PMB_c_sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324505750314-a9306amquaoi23001irlptlcgq0thhei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
