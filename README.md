@@ -18,20 +18,19 @@
 
 <div align="center">
 
- <img src="https://user-images.githubusercontent.com/87238842/182443779-4e5a32d7-0acf-4ca8-9f83-07a5bf5fe154.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443784-26c002f9-d8db-4883-81f0-388c01d4a592.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443788-da8b56ca-ed67-4c62-8bcb-a3618cb55e74.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443789-d8422e88-769a-4e7e-a680-721ca0726687.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443790-4c943e25-e27b-40d6-8ad5-800f04cbd90b.png" width="150">
-
- <img src="https://user-images.githubusercontent.com/87238842/182443797-c9656c2f-c871-4cfd-ac1d-3be979a082ff.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443800-67ea6f06-6058-46f7-8bec-8aab632fe78c.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443801-802bc1b0-4aa9-48cd-a25c-ebc798ffc522.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443802-f2f1b110-0a69-4ff3-a133-2a89ef08dd45.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443806-74930bdb-6385-45fe-a8cb-bc6a957172d3.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443808-41c42b27-03bb-45dc-a0f0-892daba8375d.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443812-ab9d2add-de35-42d9-abef-105af8295df5.png" width="150">
-  <img src="(https://user-images.githubusercontent.com/87238842/182443791-b660906c-6b09-4e29-95f3-33ad00bc2e4f.png" width="150">
+ <img src="https://user-images.githubusercontent.com/87238842/193131059-369ad6c9-6f40-4c75-83e2-b8af3a59ea0b.gif" width="150">
+ <img src="https://user-images.githubusercontent.com/87238842/193131024-7909142f-076d-4b3d-b2f8-10ee177fc1c8.png" width="150">
+ <img src="https://user-images.githubusercontent.com/87238842/193131029-360e1d59-49be-454c-867b-fbfa68b61a56.png" width="150">
+ <img src="https://user-images.githubusercontent.com/87238842/193131030-22ac4973-ac8f-45df-856b-ee68f3dd603e.png" width="150">
+ <img src="https://user-images.githubusercontent.com/87238842/193131036-54b9a0d4-52b0-4b7b-a1bb-ea8b7c617fdc.png" width="150">
+ <img src="https://user-images.githubusercontent.com/87238842/193131039-0fb59471-cf3b-4d9a-8e53-44f8ff5b1d87.png" width="150">
+ <img src="https://user-images.githubusercontent.com/87238842/193131043-f5e9c5ff-939b-4657-8f1c-a360a1730863.png" width="150">
+ <img src="https://user-images.githubusercontent.com/87238842/193131049-2d496bdb-7d98-498e-82be-f17b3cd761b0.png" width="150">
+ <img src="https://user-images.githubusercontent.com/87238842/193131050-eda6ed39-4ee5-4adf-8514-a0729611dc3d.png" width="150">
+ <img src="https://user-images.githubusercontent.com/87238842/193131052-3cc2b764-6b68-4911-99dc-36b245ea3fa8.png" width="150">
+ <img src="https://user-images.githubusercontent.com/87238842/193131054-456c4cc0-314c-4d83-90ae-360bca2a32e8.png" width="150">
+ <img src="https://user-images.githubusercontent.com/87238842/193131057-e86af172-4cb1-4959-a74a-6b8338291676.png" width="150">
+ <img src="(https://user-images.githubusercontent.com/87238842/182443791-b660906c-6b09-4e29-95f3-33ad00bc2e4f.png" width="150">
 
 
 
@@ -43,6 +42,7 @@
 ## 📖 Sobre
 
 A proposta do projeto é a criação de um app que armazena produtos em um estoque, salvando a quantidade, valor e descrição.
+O aplicativo é capaz de cadastrar e atualizar produtos em tempo real, alem de imagens. Tambem é possivel recuperar a conta enviando um e-mail para o usuário cadastrado.
 Este projeto foi desenvolvido durante minha jornada de estudos, com intuito de aprimorar os conhecimentos em desenvolvimento de android nativo.
 
 ---
